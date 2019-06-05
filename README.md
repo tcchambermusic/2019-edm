@@ -31,7 +31,7 @@ $('img[usemap]').rwdImageMaps();
 
 <body>
 <div>
-  <img src="http://edm.tc-chambermusic.org/2019-edm/TC-EDM.jpg" alt="2019 Taiwan Connection 音樂節EDM" width="799" height="1170" usemap="#Map"/>
+  <img src="http://edm.tc-chambermusic.org/2019-edm/TC-EDM.jpg" alt="2019 Taiwan Connection 音樂節EDM" width="890" height="1562" usemap="#Map"/>
   
   <map name="Map">
 	
