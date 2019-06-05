@@ -34,9 +34,9 @@ $('img[usemap]').rwdImageMaps();
   <img src="http://edm.tc-chambermusic.org/2019-edm/TC-EDM.jpg" alt="2019 Taiwan Connection 音樂節EDM" width="799" height="1170" usemap="#Map"/>
   
   <map name="Map">
-  <area shape="rect" coords="1963,2209,2397,2428" href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteRHLelfter9k" target="_blank" alt="購票去">
-  <area shape="rect" coords="232,2898,2360,3928" href="https://www.youtube.com/watch?v=GgvNulAfQL4" target="_blank" alt="影片：2019 TC音樂節">
-  <area shape="rect" coords="2,3,2581,1599" href="www.tc-chambermusic.org?utm_source=newsletter&amp;utm_medium=edm_all&amp;utm_campaign=2019_tcmf" target="_blank" alt="Taiwan Connection 官網">
+  <area shape="rect" coords="1963,2209,2397,2428" href="http://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteRHLelfter9k" target="_blank" alt="購票去">
+  <area shape="rect" coords="232,2898,2360,3928" href="http://www.youtube.com/watch?v=GgvNulAfQL4" target="_blank" alt="影片：2019 TC音樂節">
+  <area shape="rect" coords="2,3,2581,1599" href="http://www.tc-chambermusic.org?utm_source=newsletter&amp;utm_medium=edm_all&amp;utm_campaign=2019_tcmf" target="_blank" alt="Taiwan Connection 官網">
   
   </map>
   </div>
