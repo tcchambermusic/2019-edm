@@ -38,6 +38,7 @@ $('img[usemap]').rwdImageMaps();
  <area shape="rect" coords="0,1,890,542" href="http://www.tc-chambermusic.org?utm_source=newsletter&amp;utm_medium=edm_all&amp;utm_campaign=2019_tcmf" target="_blank" alt="Taiwan Connection 官網">
   <area shape="rect" coords="675,749,889,936" href="http://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteRHLelfter9k" target="_blank" alt="購票去">
   <area shape="rect" coords="78,986,816,1338" href="http://www.youtube.com/watch?v=GgvNulAfQL4" target="_blank" alt="影片：2019 TC音樂節">  
+   <area shape="rect" coords="59,1516,202,1618" href="http://www.tc-chambermusic.org?utm_source=newsletter&amp;utm_medium=edm_all&amp;utm_campaign=2019_tcmf" target="_blank" alt="Taiwan Connection 官網">
   </map>
   
   </div>
