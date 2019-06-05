@@ -31,13 +31,13 @@ $('img[usemap]').rwdImageMaps();
 
 <body>
 <div>
-  <img src="http://edm.tc-chambermusic.org/2019-edm/TC-EDM.jpg" alt="2019 Taiwan Connection 音樂節EDM" width="890" height="1562" usemap="#Map"/>
+  <img src="http://edm.tc-chambermusic.org/2019-edm/TC-EDM.jpg" alt="2019 Taiwan Connection 音樂節EDM" width="890" height="1660" usemap="#Map"/>
   
   <map name="Map">
 	
- <area shape="rect" coords="1,1,828,511" href="http://www.tc-chambermusic.org?utm_source=newsletter&amp;utm_medium=edm_all&amp;utm_campaign=2019_tcmf" target="_blank" alt="Taiwan Connection 官網">
-  <area shape="rect" coords="628,703,771,778" href="http://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteRHLelfter9k" target="_blank" alt="購票去">
-  <area shape="rect" coords="73,927,758,1256" href="http://www.youtube.com/watch?v=GgvNulAfQL4" target="_blank" alt="影片：2019 TC音樂節">  
+ <area shape="rect" coords="0,1,890,542" href="http://www.tc-chambermusic.org?utm_source=newsletter&amp;utm_medium=edm_all&amp;utm_campaign=2019_tcmf" target="_blank" alt="Taiwan Connection 官網">
+  <area shape="rect" coords="674,749,827,828" href="http://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteRHLelfter9k" target="_blank" alt="購票去">
+  <area shape="rect" coords="78,986,816,1338" href="http://www.youtube.com/watch?v=GgvNulAfQL4" target="_blank" alt="影片：2019 TC音樂節">  
   </map>
   
   </div>
